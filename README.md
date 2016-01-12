@@ -3,7 +3,7 @@
 ##### Prerequisite
 
 * Your Application directory must have a manifest.yml
-* Read more [here](https://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html#minimal-manifest)
+  * Read more [here](https://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html#minimal-manifest)
 
 ##### Steps
 
