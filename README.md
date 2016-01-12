@@ -5,7 +5,7 @@
 * Your Application directory must have a manifest.yml
 * Read more [here](https://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html#minimal-manifest)
 
-#### Steps
+##### Steps
 
 1. In WebStorm: File -> Settings -> Tools -> External Tools
 1. Click the green `+` symbol
