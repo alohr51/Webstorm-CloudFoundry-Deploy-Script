@@ -11,8 +11,8 @@
 1. Click the green `+` symbol
 1. Name the tool
 1. In **Program** provide the file path for `webstormCloudFoundryDeploy.bat`
-1. In **Paramters** paste `$Prompt$`
-1. In **Working directory** paste `$ProjectFileDir$`
+1. In **Paramters** paste: `$Prompt$`
+1. In **Working directory** paste: `$ProjectFileDir$`
 1. To run the tool - In the top menu: Tools -> External Tools -> Whatever you named the tool
 1. For the prompt you enter your credentials in this order with a space between them:
     * `<cf api target> <cf username> <cf password> <cf org name> <cf space name>`
