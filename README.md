@@ -10,7 +10,7 @@
 1. In WebStorm: File -> Settings -> Tools -> External Tools
 1. Click the green `+` symbol
 1. Name the tool
-1. In **Program** provide the file path for `webstormCloudFoundryDeploy.bat`
+1. In **Program** provide the file path for `webstormCloudFoundryDeploy.bat` if using Windows, or `webstormCloudFoundryDeploy.sh` if using Mac / Linux
 1. In **Paramters** paste: `$Prompt$`
 1. In **Working directory** paste: `$ProjectFileDir$`
 1. To run the tool - In the top menu: Tools -> External Tools -> Whatever you named the tool
